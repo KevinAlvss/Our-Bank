@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4qkgmxTfrEMqZnjK3wIeVsmoqpOHOdh2EMuIpR/DQEY=",
+  "Source": "OurBank.Api",
+  "BasePath": "_content/OurBank.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

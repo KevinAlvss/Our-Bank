@@ -1,0 +1,12 @@
+D:\code\OurBank\OurBank.Contracts\bin\Debug\net6.0\OurBank.Contracts.deps.json
+D:\code\OurBank\OurBank.Contracts\bin\Debug\net6.0\OurBank.Contracts.dll
+D:\code\OurBank\OurBank.Contracts\bin\Debug\net6.0\OurBank.Contracts.pdb
+D:\code\OurBank\OurBank.Contracts\obj\Debug\net6.0\OurBank.Contracts.csproj.AssemblyReference.cache
+D:\code\OurBank\OurBank.Contracts\obj\Debug\net6.0\OurBank.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\OurBank\OurBank.Contracts\obj\Debug\net6.0\OurBank.Contracts.AssemblyInfoInputs.cache
+D:\code\OurBank\OurBank.Contracts\obj\Debug\net6.0\OurBank.Contracts.AssemblyInfo.cs
+D:\code\OurBank\OurBank.Contracts\obj\Debug\net6.0\OurBank.Contracts.csproj.CoreCompileInputs.cache
+D:\code\OurBank\OurBank.Contracts\obj\Debug\net6.0\OurBank.Contracts.dll
+D:\code\OurBank\OurBank.Contracts\obj\Debug\net6.0\refint\OurBank.Contracts.dll
+D:\code\OurBank\OurBank.Contracts\obj\Debug\net6.0\OurBank.Contracts.pdb
+D:\code\OurBank\OurBank.Contracts\obj\Debug\net6.0\ref\OurBank.Contracts.dll

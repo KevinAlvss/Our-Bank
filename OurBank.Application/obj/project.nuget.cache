@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aSpSNQ1wVl7ozw5Ml+b+Jyv97OpgBm0mR+klMvJfqk4DZxJyy2mcOnEy7ceJ+husrSxGxlpWCCprkRUsJ6XJKg==",
+  "success": true,
+  "projectFilePath": "D:\\code\\OurBank\\OurBank.Application\\OurBank.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

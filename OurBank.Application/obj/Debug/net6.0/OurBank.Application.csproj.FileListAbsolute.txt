@@ -1,0 +1,15 @@
+D:\code\OurBank\OurBank.Application\bin\Debug\net6.0\OurBank.Application.deps.json
+D:\code\OurBank\OurBank.Application\bin\Debug\net6.0\OurBank.Application.dll
+D:\code\OurBank\OurBank.Application\bin\Debug\net6.0\OurBank.Application.pdb
+D:\code\OurBank\OurBank.Application\bin\Debug\net6.0\OurBank.Domain.dll
+D:\code\OurBank\OurBank.Application\bin\Debug\net6.0\OurBank.Domain.pdb
+D:\code\OurBank\OurBank.Application\obj\Debug\net6.0\OurBank.Application.csproj.AssemblyReference.cache
+D:\code\OurBank\OurBank.Application\obj\Debug\net6.0\OurBank.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\OurBank\OurBank.Application\obj\Debug\net6.0\OurBank.Application.AssemblyInfoInputs.cache
+D:\code\OurBank\OurBank.Application\obj\Debug\net6.0\OurBank.Application.AssemblyInfo.cs
+D:\code\OurBank\OurBank.Application\obj\Debug\net6.0\OurBank.Application.csproj.CoreCompileInputs.cache
+D:\code\OurBank\OurBank.Application\obj\Debug\net6.0\OurBank.Application.csproj.CopyComplete
+D:\code\OurBank\OurBank.Application\obj\Debug\net6.0\OurBank.Application.dll
+D:\code\OurBank\OurBank.Application\obj\Debug\net6.0\refint\OurBank.Application.dll
+D:\code\OurBank\OurBank.Application\obj\Debug\net6.0\OurBank.Application.pdb
+D:\code\OurBank\OurBank.Application\obj\Debug\net6.0\ref\OurBank.Application.dll

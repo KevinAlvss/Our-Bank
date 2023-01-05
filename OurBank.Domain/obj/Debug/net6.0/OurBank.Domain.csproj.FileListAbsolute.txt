@@ -1,0 +1,12 @@
+D:\code\OurBank\OurBank.Domain\bin\Debug\net6.0\OurBank.Domain.deps.json
+D:\code\OurBank\OurBank.Domain\bin\Debug\net6.0\OurBank.Domain.dll
+D:\code\OurBank\OurBank.Domain\bin\Debug\net6.0\OurBank.Domain.pdb
+D:\code\OurBank\OurBank.Domain\obj\Debug\net6.0\OurBank.Domain.csproj.AssemblyReference.cache
+D:\code\OurBank\OurBank.Domain\obj\Debug\net6.0\OurBank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\OurBank\OurBank.Domain\obj\Debug\net6.0\OurBank.Domain.AssemblyInfoInputs.cache
+D:\code\OurBank\OurBank.Domain\obj\Debug\net6.0\OurBank.Domain.AssemblyInfo.cs
+D:\code\OurBank\OurBank.Domain\obj\Debug\net6.0\OurBank.Domain.csproj.CoreCompileInputs.cache
+D:\code\OurBank\OurBank.Domain\obj\Debug\net6.0\OurBank.Domain.dll
+D:\code\OurBank\OurBank.Domain\obj\Debug\net6.0\refint\OurBank.Domain.dll
+D:\code\OurBank\OurBank.Domain\obj\Debug\net6.0\OurBank.Domain.pdb
+D:\code\OurBank\OurBank.Domain\obj\Debug\net6.0\ref\OurBank.Domain.dll
